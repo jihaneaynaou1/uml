@@ -1,0 +1,1 @@
+SELECT DNO , MAX (SAL) FROM Employes GROUP By.DNO
